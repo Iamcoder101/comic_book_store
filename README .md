@@ -5,9 +5,8 @@
 2. Install dependencies: `npm install`
 3. Set up environment variables in `.env` file:
     ```
-    PORT=5000
-    MONGODB_URI=mongodb://localhost:27017/comicstore
-    ```
+   PORT=8000
+MONGODB_URI=mongodb+srv://itsayesha66:itsayesha66@cluster0.r1nqq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0    ```
 4. Start the server: `npm start`
 
 ### API Endpoints:
